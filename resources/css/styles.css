@@ -294,7 +294,7 @@ main .page_swiper-scrollbar-drag__0ytIl {
   white-space: normal;
   text-overflow: ellipsis;
   display: -webkit-box;
-  -webkit-line-clamp: 2;
+  
   -webkit-box-orient: vertical
 }
 
@@ -681,7 +681,7 @@ main .page_swiper-scrollbar-drag__0ytIl {
 
 .page_main-bearstv__1KuKp .page_swiper-slide__m4_Yp .page_txt-area__8K_HN .page_tit__CyPpc {
   font-weight: 600;
-  -webkit-line-clamp: 1
+  
 }
 
 .page_main-bearstv__1KuKp .page_img-list__cGIZx {
@@ -695,7 +695,7 @@ main .page_swiper-scrollbar-drag__0ytIl {
 .page_main-blog__hZAdz .page_swiper-slide__m4_Yp .page_txt-area__8K_HN .page_tit__CyPpc {
   font-size: .938rem;
   font-weight: 600;
-  -webkit-line-clamp: 3
+  
 }
 
 .page_main-blog__hZAdz .page_swiper-slide__m4_Yp .page_txt-area__8K_HN .page_label__vIpfZ {
@@ -756,7 +756,7 @@ main .page_swiper-scrollbar-drag__0ytIl {
   white-space: normal;
   text-overflow: ellipsis;
   display: -webkit-box;
-  -webkit-line-clamp: 2;
+  
   -webkit-box-orient: vertical
 }
 
@@ -839,7 +839,7 @@ main .page_swiper-scrollbar-drag__0ytIl {
 .page_img-list__cGIZx[class*=row-]>li .page_txt-area__8K_HN .page_tit__CyPpc {
   font-size: .813rem;
   color: var(--gray-05);
-  -webkit-line-clamp: 3
+ 
 }
 
 .page_img-list__cGIZx[class*=row-]>li .page_txt-area__8K_HN .page_txt__4_4e0 {
@@ -1078,7 +1078,7 @@ main .page_swiper-scrollbar-drag__0ytIl {
 
 .page_main-event__2wMSY .page_txt-area__8K_HN .page_tit__CyPpc {
   font-weight: 600;
-  -webkit-line-clamp: 1
+  
 }
 
 .page_galleryBanner__ct4WO img {
@@ -2180,6 +2180,49 @@ legend {
   transform: translate(-50%, -50%);
   width: 70%;
   background: blue;
+}
+.box {
+  width: 300px;
+  background-color: blue;
+  margin-left: 10px;
+  padding: 20px;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  text-align: center;
+}
+.parent {
+  
+  margin: 1px;
+  padding: 10px;
+  text-align: center;
+}
+
+.child {
+  display: inline-block;
+
+  width: 150px;
+  height: 150px;
+  background-color: #131230;
+  color: white;
+  border: 1px solid black;
+}
+.result {
+  
+  margin: 1px;
+  padding: 10px;
+  text-align: center;
+}
+
+.team {
+  display: inline-block;
+}
+#otherscore{
+  color:wheat;
+}
+#doosanscore{
+  color: #ED1C24;
 }
 
 @media (min-width: 1024px) {
