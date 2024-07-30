@@ -2202,8 +2202,8 @@ legend {
 .child {
   display: inline-block;
 
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   background-color: #131230;
   color: white;
   border: 1px solid black;
@@ -2394,6 +2394,119 @@ table {
 table {
   width: 100%;
 }
+i.team-doosan {
+  background: url(./images/logo_doosan.svg) no-repeat 50%
+}
+
+i.team-lotte {
+  background: url(https://www.doosanbears.com/images/logo_lotte.svg) no-repeat center center;
+    background-size:contain;
+    display: inline-block;
+    /* Ensures the element respects width and height */
+    width: 50px;
+    /* Adjust the width as needed */
+    height: 50px;
+    /* Adjust the height as needed */
+}
+
+i.team-samsung {
+  background: url(https://www.doosanbears.com/images/logo_samsung.svg) no-repeat center center;
+    background-size:contain;
+    display: inline-block;
+    /* Ensures the element respects width and height */
+    width: 50px;
+    /* Adjust the width as needed */
+    height: 50px;
+    /* Adjust the height as needed */
+}
+
+i.team-kiwoom {
+  background: url(https://www.doosanbears.com/images/logo_kiwoom.svg) no-repeat center center;
+    background-size:contain;
+    display: inline-block;
+    /* Ensures the element respects width and height */
+    width: 50px;
+    /* Adjust the width as needed */
+    height: 50px;
+    /* Adjust the height as needed */
+}
+
+i.team-kia {
+  background: url(https://www.doosanbears.com/images/logo_kia.svg) no-repeat center center;
+    background-size:contain;
+    display: inline-block;
+    /* Ensures the element respects width and height */
+    width: 50px;
+    /* Adjust the width as needed */
+    height: 50px;
+    /* Adjust the height as needed */
+}
+
+i.team-kt {
+  background: url(https://www.doosanbears.com/images/logo_kt.svg) no-repeat center center;
+    background-size:contain;
+    display: inline-block;
+    /* Ensures the element respects width and height */
+    width: 50px;
+    /* Adjust the width as needed */
+    height: 50px;
+    /* Adjust the height as needed */
+}
+
+i.team-lg {
+  background: url(https://www.doosanbears.com/images/logo_lg.svg) no-repeat center center;
+    background-size:contain;
+    display: inline-block;
+    /* Ensures the element respects width and height */
+    width: 50px;
+    /* Adjust the width as needed */
+    height: 50px;
+    /* Adjust the height as needed */
+}
+
+i.team-nc {
+  background: url(https://www.doosanbears.com/images/logo_nc.svg) no-repeat center center;
+    background-size:contain;
+    display: inline-block;
+    /* Ensures the element respects width and height */
+    width: 50px;
+    /* Adjust the width as needed */
+    height: 50px;
+    /* Adjust the height as needed */
+}
+
+.team-ssg {
+  background: url(https://www.doosanbears.com/images/logo_ssg.svg) no-repeat center center;
+  background-size:contain;
+  display: inline-block;
+  /* Ensures the element respects width and height */
+  width: 50px;
+  /* Adjust the width as needed */
+  height: 50px;
+  /* Adjust the height as needed */
+}
+
+i.team-hanwha {
+  background: url(https://www.doosanbears.com/images/logo_hanwha.svg) no-repeat center center;
+    background-size:contain;
+    display: inline-block;
+    /* Ensures the element respects width and height */
+    width: 50px;
+    /* Adjust the width as needed */
+    height: 50px;
+    /* Adjust the height as needed */
+}
+i.team-doosan {
+  background: url(https://www.doosanbears.com/images/logo_doosan.svg) no-repeat center center;
+  background-size: contain;
+  display: inline-block;
+  /* Ensures the element respects width and height */
+  width: 50px;
+  /* Adjust the width as needed */
+  height: 50px;
+  /* Adjust the height as needed */
+}
+
 @media (min-width: 1024px) {
   .slide-intro .slide-txt {
     width: 100%;
