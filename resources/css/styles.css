@@ -2317,7 +2317,83 @@ legend {
 .tab-content {
   display: none;
 }
+.mb-40 {
+  margin-bottom: 40px !important;
+}
+.table[class*=table-inborder].scroll {
+  border-bottom: 1px solid var(--gray-50);
+}
 
+.table[class*=table-inborder] {
+  border: 0;
+  background: none;
+}
+
+.table.scroll {
+  overflow: auto;
+}
+
+.table {
+  border-left: 1px solid var(--gray-40);
+  background: #fff;
+  table-layout: fixed;
+}
+
+.table,
+table {
+  width: 100%;
+}
+
+.h-max620 {
+  max-height: 620px !important;
+}
+.page_record-wrap__oAZ92.page_tab-content__turja.page_on__Jz3cO {
+  display: flex;
+}
+
+.page_record-wrap__oAZ92.page_tab-content__turja.page_on__Jz3cO {
+  display: flex;
+}
+
+.page_record-wrap__oAZ92.page_tab-content__turja.page_on__Jz3cO {
+  display: flex;
+}
+
+.page_record-wrap__oAZ92.page_tab-content__turja {
+  display: none;
+}
+
+.page_record-wrap__oAZ92.page_tab-content__turja {
+  display: none;
+}
+
+.page_record-wrap__oAZ92.page_tab-content__turja {
+  display: none;
+}
+.tit-15 {
+  font-size: .938rem !important;
+}
+
+.tit-14,
+.tit-15 {
+  font-weight: 600 !important;
+  margin-bottom: 10px;
+}
+.table[class*=table-inborder] {
+  border: 0;
+  background: none;
+}
+
+.table {
+  border: 1px solid var(--gray-40);
+  background: #fff;
+  table-layout: fixed;
+}
+
+.table,
+table {
+  width: 100%;
+}
 @media (min-width: 1024px) {
   .slide-intro .slide-txt {
     width: 100%;
